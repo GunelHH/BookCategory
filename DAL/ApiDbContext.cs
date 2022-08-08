@@ -1,11 +1,12 @@
 ﻿using System;
 using HomeTaskBookCategory.DAL.Configurations;
 using HomeTaskBookCategory.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace HomeTaskBookCategory.DAL
 {
-    public class ApiDbContext:DbContext
+    public class ApiDbContext:IdentityDbContext<AppUser>
     {
         public ApiDbContext(DbContextOptions<ApiDbContext>options):base(options)
         {

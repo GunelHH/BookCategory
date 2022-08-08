@@ -61,6 +61,15 @@
 /Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/FluentValidation.dll
 /Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/FluentValidation.AspNetCore.dll
 /Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll
+/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/obj/Debug/netcoreapp3.1/HomeTaskBookCategory.MvcApplicationPartsAssemblyInfo.cs
+/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
 /Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
 /Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
 /Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
@@ -133,7 +142,4 @@
 /Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/obj/Debug/netcoreapp3.1/HomeTaskBookCategory.MvcApplicationPartsAssemblyInfo.cs
-/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/AutoMapper.dll
-/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/gunelhesenova/Projects/HomeTaskBookCategory/HomeTaskBookCategory/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
